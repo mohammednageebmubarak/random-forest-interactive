@@ -35,9 +35,9 @@ The demo uses **synthetic educational examples** and is not a validated study or
 هذه التجارب مصممة للتعلم ولا تعني إثبات تفوق علمي أو صلاحية الاستخدام على بيانات حقيقية دون دراسة منهجية.
 
 ### About the developer | عن المطور
-**Mohammed Nageeb Mubarak (محمد نجيب مبارك)** works in Monitoring, Evaluation, Accountability and Learning (MEAL) and is pursuing a Master's degree in Information Systems. He is interested in applied research, data analytics and intelligent information systems.
+**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Engineering and Computer Science and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
 
-محمد نجيب مبارك متخصص في المتابعة والتقييم والمساءلة والتعلم ويدرس الماجستير في نظم المعلومات، ويهتم بالبحث العلمي التطبيقي وتحليل البيانات ونظم المعلومات الذكية.
+محمد نجيب مبارك حاصل على البكالوريوس في هندسة وعلوم الكمبيوتر، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.
 
 GitHub: https://github.com/mohammednageebmubarak
 
