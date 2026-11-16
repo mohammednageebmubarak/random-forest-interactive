@@ -19,6 +19,14 @@ An offline-ready **single-file bilingual (Arabic/English) interactive lesson** f
 - **GitHub Pages configuration:** Settings → Pages → Deploy from a branch → **main** → **/ (root)**.
 - **Repository name:** `random-forest-interactive` (already renamed).
 
+### Detailed learning module | الشرح الأكاديمي الموسّع
+
+The interactive site now includes a substantial **[bilingual detailed lesson with a worked numerical example](https://mohammednageebmubarak.github.io/random-forest-interactive/#deep-dive)** covering definitions, mathematical reasoning, execution steps, common mistakes, and interpretation of the existing simulation.
+
+أضيف إلى الموقع **[شرح موسّع بالعربية والإنجليزية مع مثال حسابي محلول](https://mohammednageebmubarak.github.io/random-forest-interactive/#deep-dive)**، يشمل المصطلحات، والحسابات خطوة بخطوة، وطريقة التطبيق، والأخطاء الشائعة، وحدود المحاكاة التعليمية.
+
+**Important distinction:** the on-page graphic is a small teaching demonstration; it is not necessarily a full training implementation. Read the detailed lab notes before drawing research conclusions.
+
 ### Contents | المحتويات
 - Bilingual introduction and Information Systems example / مقدمة ومثال من نظم المعلومات.
 - Algorithm explanation and core equation / خطوات الخوارزمية ومعادلتها.
