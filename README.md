@@ -1,0 +1,45 @@
+# Random Forest — Interactive Data Mining Lab
+
+## الغابة العشوائية | Random Forest
+
+An offline-ready **single-file bilingual (Arabic/English) interactive lesson** for Master's-level Information Systems learners and introductory Data Mining study.
+
+درس تفاعلي عربي/إنجليزي عن **الغابة العشوائية** يعمل مباشرة في المتصفح دون مكتبات خارجية أو اتصال بالإنترنت.
+
+### Launch | فتح الدرس
+- **Live site (after GitHub Pages is enabled):** https://mohammednageebmubarak.github.io/5/
+- **Offline:** download [index.html](./index.html) and open it in your browser.
+- **GitHub Pages configuration:** Settings → Pages → Deploy from a branch → **main** → **/ (root)**.
+- **Suggested descriptive repository name:** `random-forest-interactive` (requires a manual rename in repository Settings; the link above changes if renamed).
+
+### Contents | المحتويات
+- Bilingual introduction and Information Systems example / مقدمة ومثال من نظم المعلومات.
+- Algorithm explanation and core equation / خطوات الخوارزمية ومعادلتها.
+- Interactive Random Forest demonstration / محاكاة تفاعلية مخصصة.
+- Python example (display only) / مثال برمجي بلغة Python.
+- Multilingual graded quiz / اختبار مع التصحيح الفوري.
+- Developer notes and inline source comments / ملاحظات تطوير داخل الكود.
+
+### How to extend | كيف تطور المشروع؟
+Open **index.html** and read the comments near JavaScript functions:
+- `COURSE` stores lesson content and bilingual quiz options.
+- `TXT` contains shared UI translations.
+- `initialize`, `draw*`, and `nextStep` implement the algorithm-specific chart.
+- `renderQuiz`, `grade`, and `switchLanguage` handle the self-assessment and RTL/LTR language switch.
+
+To keep offline compatibility, avoid third-party CDN dependencies. Test sliders, charts, reset, grading and both language directions after every change.
+
+### Learning limitation | تنبيه أكاديمي
+The demo uses **synthetic educational examples** and is not a validated study or production classifier. The Python snippet is instructional and not run in-browser.
+
+هذه التجارب مصممة للتعلم ولا تعني إثبات تفوق علمي أو صلاحية الاستخدام على بيانات حقيقية دون دراسة منهجية.
+
+### About the developer | عن المطور
+**Mohammed Nageeb Mubarak (محمد نجيب مبارك)** works in Monitoring, Evaluation, Accountability and Learning (MEAL) and is pursuing a Master's degree in Information Systems. He is interested in applied research, data analytics and intelligent information systems.
+
+محمد نجيب مبارك متخصص في المتابعة والتقييم والمساءلة والتعلم ويدرس الماجستير في نظم المعلومات، ويهتم بالبحث العلمي التطبيقي وتحليل البيانات ونظم المعلومات الذكية.
+
+GitHub: https://github.com/mohammednageebmubarak
+
+### License
+No software license has been selected for this project.
