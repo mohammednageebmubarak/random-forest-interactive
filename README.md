@@ -1,13 +1,20 @@
-# Random Forest — Interactive Data Mining Lab
+<div align="center">
 
-## الغابة العشوائية | Random Forest
+# 🌲 Random Forest — Interactive Data Mining Lab
+### الغابة العشوائية | مختبر تعليمي تفاعلي
+
+**العربية | English · Interactive · Offline-ready**
+
+**[🚀 Open Interactive Lesson | افتح الدرس التفاعلي](https://mohammednageebmubarak.github.io/random-forest-interactive/)**
+
+</div>
 
 An offline-ready **single-file bilingual (Arabic/English) interactive lesson** for Master's-level Information Systems learners and introductory Data Mining study.
 
 درس تفاعلي عربي/إنجليزي عن **الغابة العشوائية** يعمل مباشرة في المتصفح دون مكتبات خارجية أو اتصال بالإنترنت.
 
 ### Launch | فتح الدرس
-- **Live site (after GitHub Pages is enabled):** https://mohammednageebmubarak.github.io/random-forest-interactive/
+- **Live website | الموقع المباشر:** [Open interactive lesson | افتح الدرس](https://mohammednageebmubarak.github.io/random-forest-interactive/)
 - **Offline:** download [index.html](./index.html) and open it in your browser.
 - **GitHub Pages configuration:** Settings → Pages → Deploy from a branch → **main** → **/ (root)**.
 - **Repository name:** `random-forest-interactive` (already renamed).
