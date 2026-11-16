@@ -7,10 +7,10 @@ An offline-ready **single-file bilingual (Arabic/English) interactive lesson** f
 درس تفاعلي عربي/إنجليزي عن **الغابة العشوائية** يعمل مباشرة في المتصفح دون مكتبات خارجية أو اتصال بالإنترنت.
 
 ### Launch | فتح الدرس
-- **Live site (after GitHub Pages is enabled):** https://mohammednageebmubarak.github.io/5/
+- **Live site (after GitHub Pages is enabled):** https://mohammednageebmubarak.github.io/random-forest-interactive/
 - **Offline:** download [index.html](./index.html) and open it in your browser.
 - **GitHub Pages configuration:** Settings → Pages → Deploy from a branch → **main** → **/ (root)**.
-- **Suggested descriptive repository name:** `random-forest-interactive` (requires a manual rename in repository Settings; the link above changes if renamed).
+- **Repository name:** `random-forest-interactive` (already renamed).
 
 ### Contents | المحتويات
 - Bilingual introduction and Information Systems example / مقدمة ومثال من نظم المعلومات.
