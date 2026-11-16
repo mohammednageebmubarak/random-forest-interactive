@@ -42,11 +42,13 @@ The demo uses **synthetic educational examples** and is not a validated study or
 هذه التجارب مصممة للتعلم ولا تعني إثبات تفوق علمي أو صلاحية الاستخدام على بيانات حقيقية دون دراسة منهجية.
 
 ### About the developer | عن المطور
-**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Engineering and Computer Science and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
+**Mohammed Nageeb Mubarak holds a bachelor's degree in Computer Science and Engineering and is pursuing a master's degree in Information Systems. His professional and academic interests include data analysis, data mining, applied research, and intelligent information systems.**
 
-محمد نجيب مبارك حاصل على البكالوريوس في هندسة وعلوم الكمبيوتر، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.
+محمد نجيب مبارك حاصل على البكالوريوس في علوم وهندسة الكمبيوتر (Computer Science and Engineering)، ويدرس الماجستير في نظم المعلومات. تشمل اهتماماته المهنية والأكاديمية تحليل البيانات والتنقيب عنها والبحث العلمي التطبيقي ونظم المعلومات الذكية.
 
-GitHub: https://github.com/mohammednageebmubarak
+GitHub: https://github.com/mohammednageebmubarak  
+LinkedIn: [https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3](https://www.linkedin.com/in/mohammed-nageeb-mubarak-701779b3)  
+Mobile | الجوال: [00967778075416](tel:+967778075416)
 
 ### License
 No software license has been selected for this project.
